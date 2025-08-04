@@ -49,7 +49,7 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <div align="center">
-  <a href="https://facebook.com/nguyenducnghiem" target="_blank">
+  <a href="https://www.facebook.com/ucnghiemnguyen" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyenducnghiem-facebook" />
   </a>
   <a href="https://www.instagram.com/ng_hiemm/" target="_blank">
@@ -59,5 +59,3 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyenducnghiem-email" />
   </a>
 </div>
-
-<br>
