@@ -36,7 +36,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
+<div align="center">
   <a href="#" title="NguyenDucNghiem">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiemmmm&hide=html,css,javascript,shell,cmake,makefile,batchfile,dockerfile,objective-c,typescript,java,ruby,go,powershell&layout=compact&langs_count=3&theme=default&hide_border=true" />
   </a>
@@ -49,16 +49,15 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <div align="center">
-  <a href="https://facebook.com/nguyenducnghiem" target="blank">
+  <a href="https://facebook.com/nguyenducnghiem" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyenducnghiem-facebook" />
   </a>
-  <a href="https://www.instagram.com/ng_hiemm/" target="blank">
+  <a href="https://www.instagram.com/ng_hiemm/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nguyenducnghiem-instagram" />
   </a>
-  <a href="mailto:nguyenducnghiemthptllqt@gmail.com" target="top">
+  <a href="mailto:nguyenducnghiemthptllqt@gmail.com" target="_top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyenducnghiem-email" />
   </a>
 </div>
 
 <br>
-
